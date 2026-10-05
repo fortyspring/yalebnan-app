@@ -1,11 +1,10 @@
 # Ya Lebanon App
 
-![Official application catalogue](assets/theverificat-apps.png)
+![Ya Lebanon official app catalogue](assets/theverificat-apps.png)
 
-Official product showcase for the **Ya Lebanon** Android application.
+Official showcase for the **Ya Lebanon** Android application.
 
-## Verified Build Catalogue
-
+## Official catalogue
 https://theverificat.com/apps/
 
 - Package: `org.yalebnan.news`
@@ -13,16 +12,14 @@ https://theverificat.com/apps/
 - Version code listed: `9`
 - Target SDK listed: `36`
 
-## Product Focus
-
+## Product focus
 - Lebanese and regional news
 - Live synchronization with yalebnan.org
 - News and video experience
 - Favorites and night-reading experience
 - Mobile-focused content delivery
 
-## Source Code
-
-Proprietary. Public repository contains showcase material and documentation only.
+## Source code
+Proprietary. This repository contains showcase material and documentation only.
 
 Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
