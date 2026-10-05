@@ -1,5 +1,28 @@
-# Ya Lebanon App  Official product showcase maintained by **Mohamad Kassem**.  ## Overview  Official product showcase for the Ya Lebanon Android application.  ## Technology  Android â€¢ WordPress â€¢ REST API  ## Key Features  - Arabic news publishing
-- Breaking news
-- Category notifications
-- Favorites
-- Light and dark mode  ## Status  Production / Active Development  ## Official Website  https://yalebnan.org/  ## Source Code  **Proprietary software. Source code is not publicly distributed.**  This repository contains product information and documentation only. It does not contain commercial source code, APK files, ZIP packages, credentials, private APIs, or deployment secrets.  Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
+# Ya Lebanon App
+
+![Official application catalogue](assets/theverificat-apps.png)
+
+Official product showcase for the **Ya Lebanon** Android application.
+
+## Verified Build Catalogue
+
+https://theverificat.com/apps/
+
+- Package: `org.yalebnan.news`
+- Production build listed: `v1.0.7`
+- Version code listed: `9`
+- Target SDK listed: `36`
+
+## Product Focus
+
+- Lebanese and regional news
+- Live synchronization with yalebnan.org
+- News and video experience
+- Favorites and night-reading experience
+- Mobile-focused content delivery
+
+## Source Code
+
+Proprietary. Public repository contains showcase material and documentation only.
+
+Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
